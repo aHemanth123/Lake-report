@@ -1,5 +1,5 @@
 
-# Dashboard of Ice Cover In the Lakes of The United States
+# Ice Cover Analysis Dashboard(Power BI) 
 
 ### Dashboard Link :  https://app.powerbi.com/groups/3805ea30-4d66-47db-9f49-46c08a9f4684/reports/50286549-96d2-46f8-89d7-404ca6f5144d/efea39c7e4b6945c0d05?experience=power-bi
 
